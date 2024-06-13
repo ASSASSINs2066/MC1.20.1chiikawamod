@@ -3,3 +3,4 @@
 
 **scr里面是源代码**
 
+前置mod:[Geocklib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
