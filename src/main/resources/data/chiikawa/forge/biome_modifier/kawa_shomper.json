@@ -1,0 +1,19 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:desert",
+    "minecraft:forest",
+    "minecraft:jungle",
+    "minecraft:meadow",
+    "minecraft:plains",
+    "minecraft:old_growth_birch_forest",
+    "minecraft:dark_forest",
+    "minecraft:birch_forest"
+  ],
+  "spawners": {
+    "type": "chiikawa:kawa",
+    "weight": 150,
+    "minCount": 3,
+    "maxCount": 10
+  }
+}

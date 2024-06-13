@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item":"chiikawa:dust"
+    }
+  },
+  "result": {
+    "item": "chiikawa:new_block",
+    "count": 1
+  }
+}

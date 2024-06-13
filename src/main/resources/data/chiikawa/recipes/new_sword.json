@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "$"
+  ],
+  "key": {
+    "#": {
+      "item":"chiikawa:new_block"
+    },
+    "$": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "chiikawa:new_sword",
+    "count": 1
+  }
+}

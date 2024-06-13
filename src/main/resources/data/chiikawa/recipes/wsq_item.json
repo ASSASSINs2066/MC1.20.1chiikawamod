@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "&$#"
+  ],
+  "key": {
+    "#": {
+      "item":"chiikawa:new_block"
+    },
+    "$": {
+      "item": "minecraft:bone"
+    },
+    "&": {
+      "item": "minecraft:rabbit"
+    }
+  },
+  "result": {
+    "item": "chiikawa:wsq_item",
+    "count": 1
+  }
+}

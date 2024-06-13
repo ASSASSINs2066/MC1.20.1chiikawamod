@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "&$#"
+  ],
+  "key": {
+    "#": {
+      "item":"chiikawa:new_block"
+    },
+    "$": {
+      "item": "minecraft:bone"
+    },
+    "&": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "result": {
+    "item": "chiikawa:kawa_item",
+    "count": 1
+  }
+}

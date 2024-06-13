@@ -1,0 +1,34 @@
+{
+  "entity.chii.death": {
+    "category":"master",
+    "sounds":[
+      "chiikawa:chiisound/chii",
+      "chiikawa:chiisound/kwa"
+    ],
+    "subtitle":"chiikawa"
+  },
+  "entity.chii.eat": {
+    "category":"master",
+    "sounds":[
+      "chiikawa:chiisound/chii",
+      "chiikawa:chiisound/kaw"
+    ],
+    "subtitle":"chiikawa"
+  },
+  "entity.chii.heart": {
+    "category":"master",
+    "sounds":[
+      "chiikawa:chiisound/kaw",
+      "chiikawa:chiisound/chii"
+    ],
+    "subtitle":"chiikawa"
+  },
+  "entity.chii.take": {
+    "category":"master",
+    "sounds":[
+      "chiikawa:chiisound/chii",
+      "chiikawa:chiisound/wsq"
+    ],
+    "subtitle":"chiikawa"
+  }
+}

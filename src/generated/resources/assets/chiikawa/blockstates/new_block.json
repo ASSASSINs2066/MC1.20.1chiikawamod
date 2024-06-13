@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chiikawa:block/new_block"
+    }
+  }
+}
